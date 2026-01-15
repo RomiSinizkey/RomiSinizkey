@@ -34,9 +34,8 @@ Built with **Next.js, TypeScript, Material UI**, and real backend integration.
 
 ---
 
-## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RomiSinizkey&show_icons=true&theme=dark)
-![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RomiSinizkey&layout=compact&theme=dark)
+## 📊 GitHub Stats
+_(Temporarily unavailable due to external service outage — will be restored soon)_
 
 ---
