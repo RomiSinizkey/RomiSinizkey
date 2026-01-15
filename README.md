@@ -35,8 +35,5 @@ Built with **Next.js, TypeScript, Material UI**, and real backend integration.
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=RomiSinizkey&theme=dark&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=RomiSinizkey&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RomiSinizkey&layout=compact&theme=dark)
-
+![](https://github-readme-stats.vercel.app/api?username=RomiSinizkey&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=RomiSinizkey&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RomiSinizkey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
